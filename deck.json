@@ -132,6 +132,16 @@
             "guid": "Edb5?1,H}-",
             "note_model_uuid": "d10ce274-dddb-11ec-a83e-bd2c465139d0",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is 1 + 1",
+                "2"
+            ],
+            "guid": "KY8i4JFBg_",
+            "note_model_uuid": "d10ce274-dddb-11ec-a83e-bd2c465139d0",
+            "tags": []
         }
     ]
 }
